@@ -1,0 +1,6 @@
+{
+  "name": "Savage King",
+  "description": "Say less. Roast more. Turn awkward messages into legendary comebacks with witty, sarcastic, and playful humor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
